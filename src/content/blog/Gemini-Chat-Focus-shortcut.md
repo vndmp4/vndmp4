@@ -9,9 +9,9 @@ tags:
 
 I use this extension to run a script: https://violentmonkey.github.io
 
-Repo: https://github.com/brokenricefilms/gemini-chat-focus-shortcut (script in this repo will be up to date, cuz i'm lazy to update script here)
+Repo: https://github.com/vndmp4/gemini-chat-focus-shortcut (script in this repo will be up to date, cuz i'm lazy to update script here)
 
-Install: https://github.com/brokenricefilms/gemini-chat-focus-shortcut/raw/main/gemini-chat-focus-shortcut.user.js
+Install: https://github.com/vndmp4/gemini-chat-focus-shortcut/raw/main/gemini-chat-focus-shortcut.user.js
 
 Use `Esc` key to focus chat input
 
@@ -21,7 +21,7 @@ Use `Esc` key to focus chat input
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
-// @author       brokenricefilms
+// @author       vndmp4
 // @match        https://gemini.google.com/*
 // @grant        none
 // ==/UserScript==

@@ -11,7 +11,7 @@ description: ""
 ```js
 // ==UserScript==
 // @name        New gemini Chat shortcut
-// @namespace   brokenricefilms
+// @namespace   vndmp4
 // @match       https://gemini.google.com/*
 // @grant       none
 // ==/UserScript==

@@ -13,7 +13,7 @@ tags:
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
-// @author       brokenricefilms
+// @author       vndmp4
 // @match        https://groq.com/
 // @grant        none
 // ==/UserScript==
