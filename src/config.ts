@@ -3,8 +3,8 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://vndmp4.pages.dev/", // replace this with your deployed domain
   author: "Thuan Pham",
-  desc: "Thuan Pham, a video editor based in Ho Chi Minh City, who goes by Broken Rice Films.",
-  title: "Broken Rice Films",
+  desc: "Thuan Pham, a video editor based in Ho Chi Minh City, who goes by VND.mp4.",
+  title: "VND.mp4",
   ogImage: "vndmp4-og.webp",
   lightAndDarkMode: true,
   postPerPage: 9999,
