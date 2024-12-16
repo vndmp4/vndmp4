@@ -17,7 +17,7 @@ Press the `Esc` key to focus on the search bar.
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
-// @author       vndmp4
+// @author       cutbypham
 // @match        https://shopee.vn/*
 // @grant        none
 // ==/UserScript==
